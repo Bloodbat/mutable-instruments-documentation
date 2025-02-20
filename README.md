@@ -1,7 +1,3 @@
-Documentation for Mutable Instruments Eurorack modules.
-
-Hosted here:
-
-https://pichenettes.github.io/mutable-instruments-documentation/
+Bloodbat's Local Documentation for Mutable Instruments Eurorack modules.
 
 License: cc-by-sa-3.0
