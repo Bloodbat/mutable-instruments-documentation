@@ -2,6 +2,6 @@ site_name: Mutable Instruments Documentation
 site_author: Émilie Gillet
 theme:
     name: readthedocs
- site_url: ""
- use_directory_urls: false
- plugins: []
+site_url: ""
+use_directory_urls: false
+plugins: []
